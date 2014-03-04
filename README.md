@@ -1,0 +1,4 @@
+storytemplate
+=============
+
+Story Template
