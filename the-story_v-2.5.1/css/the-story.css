@@ -2837,7 +2837,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   z-index: 1000;
-  min-height: 80px;
+  min-height: 40px;
   margin-bottom: 27px;
   border: 1px solid transparent;
 }
