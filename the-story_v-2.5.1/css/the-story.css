@@ -2837,7 +2837,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   z-index: 1000;
-  min-height: 40px;
+  min-height: 80px;
   margin-bottom: 27px;
   border: 1px solid transparent;
 }
@@ -3162,7 +3162,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(255, 0, 0, 0.8);
   border-color: rgba(0, 0, 0, 0.8);
 }
 .navbar-default .navbar-brand {
